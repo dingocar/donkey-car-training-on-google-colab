@@ -16,6 +16,11 @@ about getting python working on your machine.
 4. Download model back to donkey 
 5. Done!
 
+# TODO
+
+* Add a checksum of the file to the script.
+* Create the mycar or ohmc_car directory in your google drive.
+* Name the model based on the tub name.
 
 ## Credit:
 1. https://github.com/sachindroid8/self-driving-car-using-google-colab
